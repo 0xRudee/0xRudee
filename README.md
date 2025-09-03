@@ -53,4 +53,4 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/0xRudee/0xRudee/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/0xRudee/0xRudee/blob/output/github-contribution-grid-snake-dark.svg)
