@@ -56,6 +56,5 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=0xRudee.0xRudee&left_color=darkviolet&right_color=limegreen&left_text=Views"  />
 </div>
----
 
 ![snake gif](https://github.com/0xRudee/0xRudee/blob/output/github-contribution-grid-snake-dark.svg)
