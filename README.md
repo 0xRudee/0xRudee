@@ -1,4 +1,4 @@
-0000
+00000
 000
 ---
 >“What’s reality? I don’t know. When my bird was looking at my computer monitor I thought,
