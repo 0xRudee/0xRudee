@@ -9,6 +9,10 @@
 
 ---
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3489303" style='border:none;'></iframe>
+
+---
+
 ## 🔨 Work in Progress
 - 🔐 Practicing on **TryHackMe, HackTheBox, PortSwigger**, etc.  
   → Planning to add a **write-ups repo** for easier CLI-friendly documentation.  
