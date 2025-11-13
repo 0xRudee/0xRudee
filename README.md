@@ -9,7 +9,7 @@
 
 ---
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Rudee.png" alt="Your Image Badge" />
+
 
 ---
 
