@@ -10,14 +10,13 @@
 ---
 
 ## 🔨 Work in Progress
-- 🔐 Practicing on **TryHackMe, HackTheBox, PortSwigger**, etc.  
-  → Planning to add a **write-ups repo** for easier CLI-friendly documentation.  
+- 🔐 Practicing on **TryHackMe, HackTheBox, PortSwigger**.
+  → Planning to add a **write-ups repo**.  
 - 📂 Preparing a **learn-by-building repo** with a README for each project.  
-- ⚡ Sharing my **Obsidian plugin settings** for anyone interested.  
 
 ## 🎯 Future Goals
-- Contribute to open-source security tools  
-- Build full-stack web apps as part of my backend journey  
+- Contribute to open-source tools  
+- Build full-stack web apps as part of my Web-Development journey  
 - Participate in higher-level ACM contests & CTFs
 
 ---
