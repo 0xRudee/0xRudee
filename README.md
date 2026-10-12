@@ -9,18 +9,6 @@
  
 ---
 
-## 🔨 Work in Progress
-- 🔐 Practicing on **TryHackMe, HackTheBox, PortSwigger**.
-  → Planning to add a **write-ups repo**.  
-- 📂 Preparing a **learn-by-building repo** with a README for each project.  
-
-## 🎯 Future Goals
-- Contribute to open-source tools  
-- Build full-stack web apps as part of my Web-Development journey  
-- Participate in higher-level ACM contests & CTFs
-
----
-
 ## My Tech Stack
 <div align="center">
   <img src="https://cdn.simpleicons.org/c++/00599C" height="50" alt="cplusplus logo"  />
