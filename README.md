@@ -11,8 +11,8 @@
 
 ### My Tech Stack
 <div align="center">
-  <img src="https://cdn.simpleicons.org/c++/00599C" height="40" alt="cplusplus logo"  />
-  <img width="4" />
+  <img src="https://cdn.simpleicons.org/c++/00599C" height="50" alt="cplusplus logo"  />
+  <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=django" height="50" alt="django logo"  />
